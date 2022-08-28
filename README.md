@@ -22,7 +22,7 @@
 </p>
 
 
-<p align="center">
+<p align="left">
 	<b><i>Resources</i></b><br>
 </p>
 
