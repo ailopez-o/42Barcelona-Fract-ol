@@ -22,6 +22,8 @@
 </p>
 
 
-Resources:
+<p align="center">
+	<b><i>Resources</i></b><br>
+</p>
 
 Mandelbrot Set with JS: https://youtu.be/6z7GQewK-Ks
